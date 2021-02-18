@@ -1,4 +1,6 @@
 # appReceitas
+**PARA VISUALIZAR OS ARQUIVOS, MUDE A BRANCH DE MAIN PARA MASTER**
+
 
 Habilidades:
 
